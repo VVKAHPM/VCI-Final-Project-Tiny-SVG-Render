@@ -19,7 +19,12 @@
 
 ### 编译步骤
 
-1. 克隆或下载本仓库
+1. 克隆本仓库
+
+```bash
+git clone https://github.com/VVKAHPM/VCI-Final-Project-Tiny-SVG-Render.git
+cd VCI-Final-Project-Tiny-SVG-Render
+```
 
 2. 进入项目主目录，执行如下命令，你将看到一个交互页面
 
